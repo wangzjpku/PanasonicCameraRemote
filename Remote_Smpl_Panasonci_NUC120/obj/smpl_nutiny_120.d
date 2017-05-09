@@ -1,0 +1,14 @@
+.\obj\smpl_nutiny_120.o: Smpl_NUTINY_120.c
+.\obj\smpl_nutiny_120.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\smpl_nutiny_120.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\smpl_nutiny_120.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\smpl_nutiny_120.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\System\SysInfra.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\System\ModuleID.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvUART.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvTIMER.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvPDMA.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvUSB.h
+.\obj\smpl_nutiny_120.o: ..\..\..\Include\Driver\DrvPWM.h
